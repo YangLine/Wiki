@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-70fcb1d8","path":"/survival/","title":"生存指南","lang":"en-US","frontmatter":{"title":"生存指南","date":"2020/05/29","author":"指南"},"headers":[],"git":{},"filePathRelative":"survival/README.md"}');export{t as data};
