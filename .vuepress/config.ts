@@ -13,6 +13,7 @@ export default defineUserConfig({
     docsBranch: "main",
     docsDir: "",
     lastUpdatedText: "",
+    logo: "/logo.png",
     // series 为原 sidebar
     series: {
       "/": [
