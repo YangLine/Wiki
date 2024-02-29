@@ -6,6 +6,7 @@ export default defineUserConfig({
   title: "Craft Space - Wiki",
   description: "Craft Space 纯生存服务器 我们致力于给喜欢MC的小伙伴提供一个一起联机的平台，在这里有和谐的玩家交流环境，你可以做你想做的任何事情，除了破坏。两个技术每天基本会在线，有任何Bug也会及时解决。如果是合理的意见我们也会积极采纳并改进。如果你感兴趣的话就赶紧加入我们吧!",
   theme: recoTheme({
+    sitename: "wwww",
     primaryColor: '#ffc800',
     style: "@vuepress-reco/style-default",
     author: "Yang Line",
@@ -13,7 +14,7 @@ export default defineUserConfig({
     docsBranch: "main",
     docsDir: "",
     lastUpdatedText: "",
-    logo: "/logo.png",
+    logo: "",
     // series 为原 sidebar
     series: {
       "/": [
@@ -101,7 +102,8 @@ export default defineUserConfig({
     // },
   }),
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: '/icon.png' }],
+    ['link', { rel: 'stylesheet', href: '/index.css' }]
   ],
   locales: {
     '/': {
