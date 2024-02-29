@@ -1,7 +1,7 @@
 ---
 title: 菜单
 date: 2024/2/16
-author: 基础
+author: Yang Line
 ---
 ## 菜单使用
 使用`/menu`命令即可打开菜单。
