@@ -4,7 +4,7 @@ date: 2024/2/28
 author: Yang Line
 ---
 ## 进入服务器
-在启动器内下载**1.18**以上的任意版本或使用Creeper Client，启动游戏。
+在启动器内下载**Java 1.18**以上的任意版本或使用Creeper Client，启动游戏。
 
 服务器的IP是 **craftspace.top** ，在多人游戏里输入即可。
 ::: warning
