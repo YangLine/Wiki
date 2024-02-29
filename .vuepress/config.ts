@@ -23,6 +23,10 @@ export default defineUserConfig({
           children: []
         },
         {
+          text: "🍖游戏指南", link: "/survival",
+          children: []
+        },
+        {
           text: "🌿基础", link: "/main",
           children: [
             { text: "🧭菜单", link: "/main/menu.html" },
@@ -33,10 +37,6 @@ export default defineUserConfig({
             { text: "🏅称号", link: "/main/title.html" },
             { text: "🧒🏻用户中心", link: "/main/center.html" },
           ],
-        },
-        {
-          text: "🍖生存指南", link: "/survival",
-          children: []
         },
         { text: "📜任务", link: "/task",
           children: []
