@@ -7,7 +7,7 @@ modules:
 bannerBrand:
   bgImage: '/bg.svg'
   title: Wiki
-  description: 'Craft Space 生存服务器玩家 Wiki'
+  description: 'Craft Space 生存服务器玩家 Wiki V5'
   tagline: '新人玩家请务必阅读FAQ和游戏指南，如您需要更详细的介绍与帮助请点击开始阅读'
   buttons:
     - { text: FAQ, link: '/#faq' }
