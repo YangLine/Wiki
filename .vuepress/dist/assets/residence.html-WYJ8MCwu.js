@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-dc9345e0","path":"/main/residence.html","title":"领地","lang":"en-US","frontmatter":{"title":"领地","date":"2020/05/29","author":"基础"},"headers":[],"git":{},"filePathRelative":"main/residence.md"}');export{e as data};
