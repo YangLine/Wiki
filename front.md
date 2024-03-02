@@ -17,7 +17,7 @@ author: 一个Bug
 特别感谢以下人员对此Wiki的编写做出的贡献：
 |                                                                                                                         |                        |                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------- |
-| <img src="http://q.qlogo.cn/headimg_dl?dst_uin=2509289806&spec=640&img_type=png" alt="啥也不是" width="50" height="50"> | **腐竹** 啥也不是      | 前文档编写者                                                          |
+| <img src="http://q.qlogo.cn/headimg_dl?dst_uin=2509289806&spec=640&img_type=png" alt="啥也不是" width="50" height="50"> | **腐竹** 啥也不是      | 前文档编写者                                                           |
 | <img src="http://q.qlogo.cn/headimg_dl?dst_uin=255433320&spec=640&img_type=png" alt="Yang Line" width="50" height="50"> | **全能管理** Yang Line | 主要文档和Wiki编写者，提供图片（*~~下面那张镇楼图也是他提供~~*），技术 |
 | <img src="http://q.qlogo.cn/headimg_dl?dst_uin=3525924681&spec=640&img_type=png" alt="一个Bug" width="50" height="50">  | 一个Bug                | 提供大量图片，前文档和Wiki编写者，技术                                 |
 | <img src="http://q.qlogo.cn/headimg_dl?dst_uin=3346220369&spec=640&img_type=png" alt="罗子" width="50" height="50">     | 罗子                   | 部分内容编写                                                           |

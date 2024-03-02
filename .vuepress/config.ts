@@ -42,12 +42,34 @@ export default defineUserConfig({
           children: []
         },
         { text: "🔧技能", link: "/ability",
+          children: [
+            { text: "敏捷", link: "/ability/.md" },
+            { text: "建筑师",link: "/ability/.md" },
+            { text: "斧技", link: "/ability/.md" },
+            { text: "酿造", link: "/ability/.md" },
+            { text: "防御", link: "/ability/.md" },
+            { text: "合成", link: "/ability/.md" },
+            { text: "探索", link: "/ability/.md" },
+            { text: "附魔", link: "/ability/.md" },
+            { text: "挖掘", link: "/ability/.md" },
+            { text: "草药学",link: "/ability/.md" },
+            { text: "狩猎", link: "/ability/.md" },
+            { text: "下界", link: "/ability/.md" },
+            { text: "采矿", link: "/ability/.md" },
+            { text: "箭术", link: "/ability/.md" },
+            { text: "裂痕", link: "/ability/.md" },
+            { text: "激流", link: "/ability/.md" },
+            { text: "隐形", link: "/ability/.md" },
+            { text: "剑术", link: "/ability/.md" },
+            { text: "驯兽", link: "/ability/.md" },
+            { text: "塔格奥",link: "/ability/.md" },
+            { text: "搏击", link: "/ability/.md" },
+          ]
+        },
+        { text: "🍺酿酒", link: "/winemaking",
           children: []
         },
-        { text: "🍺酿酒", link: "/ability",
-          children: []
-        },
-        { text: "⚡️强化", link: "/ability",
+        { text: "⚡️强化", link: "/intensifying",
           children: []
         },
         {

@@ -16,7 +16,7 @@ author: Yang Line
 
 余额：显示你的余额，详见[经济系统](economy.md)。
 ### 子菜单
-我的技能：详见[技能](/ability/README.md)。
+我的技能：详见[技能](/ability/README.md)。也可右键书架打开此界面。
 
 每日任务：点击打开每日任务界面，完成任务后可得指定奖励。
 
