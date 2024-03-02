@@ -38,10 +38,12 @@ export default defineUserConfig({
             { text: "🧒🏻用户中心", link: "/main/center.html" },
           ],
         },
-        { text: "📜任务", link: "/task",
+        {
+          text: "📜任务", link: "/task",
           children: []
         },
-        { text: "🔧技能", link: "/ability",
+        {
+          text: "🔧技能", link: "/ability",
           children: [
             { text: "敏捷", link: "/ability/agility.html" },
             { text: "建筑师",link: "/ability/architect.html" },
