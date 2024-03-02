@@ -25,6 +25,6 @@ author: 一个Bug
 
 ### 头图镇楼
 ![贴贴~](./image.jpg)
-<p style="font-size:10px;"><em><delete>冷知识：Yang是百合控</delete></em></p>
+<p style="font-size:10px;"><em><delete>冷知识：Yang是百合控<br></delete></em>↑冷知识：一个Bug是男同</p>
 
 
